@@ -28,7 +28,7 @@ The Sun keyboard uses a Mini-Din 8a connector.  Thanks to Alexander Kurz you can
 
 You'll notice that they keyboard has its own Vcc +5v & Ground as well as a "from keyboard" and "to keyboard".  You also have 3 more wires providing Vcc +5V & Ground plus a single read line for the mouse!   (We'll ignore the mouse for now).
 
-Lets connect to our Arduino!  If you buy the MD-80PL100 I recommended above ([PDF datasheet](http://www.mouser.com/ds/2/670/md-xxpl100-series-516094.pdf)]), the write mapping will be:
+Lets connect to our Arduino!  If you buy the MD-80PL100 I recommended above ([PDF datasheet](http://www.mouser.com/ds/2/670/md-xxpl100-series-516094.pdf)]), the right mapping will be:
 
 | Keyboard Plug  |         Arduino |
 |----------------|-----------------|
